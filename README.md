@@ -8,6 +8,7 @@ Instructions on how to fold zines are available here: [How to make a zine from o
 - Cabbages and their cousins: the dogs of the plant world (made for Cayuga Junior/High School as part of the GRASSHOPR program)
 - Seed domestication and adaptation: a seed dispersal game (made for Expanding Your Horizons workshop)
 - Elucidating the patterns of pleiotropy and its biological relevance in maize (made for the Population, Evolutionary, and Quantitative Genetics Conference, 2022)
+- Jumping into gene regulation: understanding the regulatory adaptation of transposable elements and their effect on gene expression in maize (made for the SACNAS National Diversity in STEM Meeting, 2022)
 
 ### Additional fun, scientific zines can he found here:
 - [The Small Science Collective](https://asyang.wixsite.com/small-science)
